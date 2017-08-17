@@ -1,7 +1,7 @@
 Traccar 2
 ==========
 
-## Definición
+## Objetivo
 
 <p align="justify">
 	Instalar la versión nueva de Traccar.
@@ -27,20 +27,20 @@ $ sudo apt-get install oracle-java8-set-default
 
 3. Modificamos la hora
 
-3.1 List available timezones
+- List available timezones
 
 ```
 timedatectl list-timezones
 
 ```
 
-3.2 Set the desired timezone
+- Set the desired timezone
 
 ```
 sudo timedatectl set-timezone America/Mexico_City
 ```
 
-3.3 Verify that the timezone has been set properly
+- Verify that the timezone has been set properly
 
 ```
 timedatectl

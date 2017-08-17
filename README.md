@@ -51,13 +51,13 @@ timedatectl
 
 Para ver todas las versiónes <a href="https://github.com/tananaev/traccar/releases">aquí</a>.
 
-$ cd /opt
-$ wget https://github.com/tananaev/traccar/releases/download/v3.13/traccar-linux-3.13.zip
-$ sudo apt-get install unzip
-$ unzip traccar-linux-3.13.zip
-$ chmod +x traccar.run
-$ sudo ./traccar.run
-$ sudo /opt/traccar/bin/startDaemon.sh
+$ cd /opt<br>
+$ wget https://github.com/tananaev/traccar/releases/download/v3.13/traccar-linux-3.13.zip<br>
+$ sudo apt-get install unzip<br>
+$ unzip traccar-linux-3.13.zip<br>
+$ chmod +x traccar.run<br>
+$ sudo ./traccar.run<br>
+$ sudo /opt/traccar/bin/startDaemon.sh<br>
 
 para versiones más recientes por favor seguir este <a href="https://github.com/ginppian/Traccar">tutorial</a>.
 
